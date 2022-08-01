@@ -3,7 +3,7 @@
 - 💬 Ask me about creating teams of engaged leaders or improving your development processes and value streams!
 - 💼 I'm a Principal Technical Fellow for Modern Software Delivery at [Excella](https://excella.com)
 - 🥇 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003676?fullName=Sean%20James%20Killeen).
-- 📣 I'm an organizer of [.NET DC](https://meetup.com/dotnetdc/) 
+- 📣 I'm the organizer of [.NET DC](https://meetup.com/dotnetdc/) 
 - 🌝 Fun fact: I once led a team to deliver a modernization project that analysts called "more complex than the moon landing".
 - ✔️ I'm the lead of the [NUnit docs](https://github.com/nunit/docs/) team
 
