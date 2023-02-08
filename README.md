@@ -5,7 +5,7 @@
 - 🥇 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003676?fullName=Sean%20James%20Killeen).
 - 📣 I'm the organizer of [.NET DC](https://meetup.com/dotnetdc/) 
 - 🌝 Fun fact: I once led a team to deliver a modernization project that analysts called "more complex than the moon landing".
-- ✔️ I'm the lead of the [NUnit docs](https://github.com/nunit/docs/) team
+- ✔️ I'm the lead of the [NUnit docs](https://github.com/nunit/docs/) team and (as of Feb 2023) member of the NUnit Core Team.
 
 ## See you around!
 
