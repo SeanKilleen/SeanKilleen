@@ -23,5 +23,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeanKilleen&layout=compact&hide=html&theme=dark" alt="sjkilleen" />
 <div/>
 <br />
-
-![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=SeanKilleen&repo=SeanKilleen&countColor=%237B1E7A)
