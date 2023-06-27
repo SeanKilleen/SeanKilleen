@@ -8,6 +8,7 @@
 - 📣 I'm the organizer of [.NET DC](https://meetup.com/dotnetdc/) 
 - 🌝 Fun fact: I once led a team to deliver a modernization project that analysts called "more complex than the moon landing".
 - ✔️ I'm the lead of the [NUnit docs](https://github.com/nunit/docs/) team and (as of Feb 2023) am a member of the NUnit Core Team.
+- ♾️ I am a huge fan of the agility & DevOps mindsets. You can find me collaborating for smaller loops almost everywhere I go. I love taking groups from A -> B
 - 🏫 I love teaching and have been a certified instructor for the ScrumAlliance CSD certification and the ICAgile Agile Testing & Automation certifications.
 - 🙌 Don't take it from me. Here's what some others have said: https://seankilleen.com/hire/#feedback-ive-received
 
