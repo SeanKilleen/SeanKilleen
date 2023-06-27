@@ -7,6 +7,14 @@
 - 🌝 Fun fact: I once led a team to deliver a modernization project that analysts called "more complex than the moon landing".
 - ✔️ I'm the lead of the [NUnit docs](https://github.com/nunit/docs/) team and (as of Feb 2023) am a member of the NUnit Core Team.
 
+## Connect With Me
+
+ [<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/SeanKilleen](https://www.linkedin.com/in/SeanKilleen))
+
+[<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/316847/seankilleen](https://stackoverflow.com/users/316847/seankilleen))
+
+[<img align="left" alt="twitter" src="[https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)" />]([https://twitter.com/sjkilleen](https://twitter.com/sjkilleen))
+
 ## See you around!
 
 - ❓ I have an [Ask Me Anything](https://github.com/SeanKilleen/ama) -- feel free to ask away!
