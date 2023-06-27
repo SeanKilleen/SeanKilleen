@@ -1,6 +1,6 @@
 # Hi! I'm Sean. 👋
 
-- 💬 Ask me about creating teams of engaged leaders or improving your development processes and value streams!
+- 💬 [Ask Me Anything](https://github.com/SeanKilleen/ama)! But in particular, ask me about creating teams of engaged leaders or improving your development processes and value streams.
 - 💼 I'm a Director for Modern Software Delivery at [Excella](https://excella.com)
 - 🥇 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003676?fullName=Sean%20James%20Killeen).
 - 📣 I'm the organizer of [.NET DC](https://meetup.com/dotnetdc/) 
@@ -9,14 +9,11 @@
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SeanKilleen) [![StackOverflow](https://img.shields.io/badge/stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/316847/seankilleen) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sjkilleen)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SeanKilleen) [![StackOverflow](https://img.shields.io/badge/stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/316847/seankilleen) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sjkilleen) [![Twitch](https://img.shields.io/badge/twitch-%231DA1F2.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/sjkilleen)
 
 ## See you around!
 
-- ❓ I have an [Ask Me Anything](https://github.com/SeanKilleen/ama) -- feel free to ask away!
 - 📰 Blog: [SeanKilleen.com](https://SeanKilleen.com)
-- 🐦 [![Twitter](https://img.shields.io/twitter/follow/sjkilleen?label=Follow%20%40sjkilleen&style=social)](https://twitter.com/sjkilleen)
-- 📺 [Follow sjkilleen on Twitch](https://twitch.tv/sjkilleen). I'm going to try to stream more often soon.
 
 ## Things I've Built
 
