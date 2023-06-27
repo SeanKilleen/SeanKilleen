@@ -4,7 +4,7 @@
 
 - 💬 [Ask Me Anything](https://github.com/SeanKilleen/ama)! But in particular, ask me about creating teams of engaged leaders or improving your development processes and value streams.
 - 💼 I'm a Director for Modern Software Delivery at [Excella](https://excella.com)
-- 🥇 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003676?fullName=Sean%20James%20Killeen) (one of roughly 120 Developer Tools MVPs in the US)
+- 🥇 I'm a [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5003676?fullName=Sean%20James%20Killeen) (one of roughly 120 Dev Tools MVPs in the US)
 - 📣 I'm the organizer of [.NET DC](https://meetup.com/dotnetdc/) 
 - 🌝 Fun fact: I once led a team to deliver a modernization project that analysts called "more complex than the moon landing".
 - ✔️ I'm the lead of the [NUnit docs](https://github.com/nunit/docs/) team and (as of Feb 2023) am a member of the NUnit Core Team.
