@@ -18,6 +18,8 @@ Tiny OSS and such.
 
 | Project | Purpose |
 | ------- | ------- |
+| [NUnit docs](https://docs.nunit.org) | I built the current process and home for the NUnit documentation. |
+| [1on1.help](https://1on1.help) | Quickly get engaging question / topic suggestions for your 1-on-1 meetings. |
 | [PortfoliOSS](https://github.com/excellalabs/PortfoliOSS) | Showcase your organization's OSS contributions |
 | [Blog-in-a-Box](https://github.com/excellalabs/blog-in-a-box) | Repo and codespaces to quickly get your own blog like this one up and running |
 | [tf-whatsup](https://github.com/SeanKilleen/tf-whatsup) | A .NET global tool that highlights relevant Terraform release notes when upgrading |
