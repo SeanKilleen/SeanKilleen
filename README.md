@@ -19,6 +19,7 @@ Tiny OSS and such.
 | Project | Purpose |
 | ------- | ------- |
 | [NUnit docs](https://docs.nunit.org) | I built the current process and home for the NUnit documentation. |
+| [leavesubstack.com](https://leavesubstack.com) | A one-pager to aggregate information on why and how to move away from Substack. |
 | [1on1.help](https://1on1.help) | Quickly get engaging question / topic suggestions for your 1-on-1 meetings. |
 | [PortfoliOSS](https://github.com/excellalabs/PortfoliOSS) | Showcase your organization's OSS contributions |
 | [Blog-in-a-Box](https://github.com/excellalabs/blog-in-a-box) | Repo and codespaces to quickly get your own blog like this one up and running |
